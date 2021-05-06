@@ -5,8 +5,6 @@ html, body, header, button, p, .skipnavigation, .header, .topnav, h3, #floatrigh
 }
 html, body {
     height: 100%;
-    max-width: 100%;
-    overflow-x: hidden;
 }
 
 /* Back to top - skip navigation */
