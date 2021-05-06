@@ -5,6 +5,7 @@ html, body, header, button, p, .skipnavigation, .header, .topnav, h3, #floatrigh
 }
 html, body {
     height: 100%;
+    width: 100%;
 }
 
 /* Back to top - skip navigation */
@@ -633,10 +634,5 @@ input[type=submit]:hover {
         -ms-flex: 100%;
         flex: 100%;
         max-width: 100%;
-    }
-}
-@media screen and (max-width: 480px) {
-    body {
-        min-width: 480px;
     }
 }
